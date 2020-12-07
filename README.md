@@ -1,4 +1,4 @@
 # quemTem Backend
 
-Backend em AdonisJs para o app Quem Tem
+Backend em expressjs para o app Quem Tem
 
